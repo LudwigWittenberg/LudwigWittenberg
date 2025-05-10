@@ -1,5 +1,6 @@
- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn)
-
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn"/>
+</p>
 
 My name is Ludwig Wittenberg. I'm a software developer and second-year Web Development student from Nybro, Sweden. Currently, I'm studying at Linnaeus University in Kalmar, focusing on full-stack development.
 
@@ -49,4 +50,7 @@ My name is Ludwig Wittenberg. I'm a software developer and second-year Web Devel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="45" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
