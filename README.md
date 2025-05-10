@@ -10,7 +10,7 @@ My name is Ludwig Wittenberg. I'm a software developer and second-year Web Devel
 ⚡ In my free time, I enjoy playing video games and watching football.
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/ludwig-wittenberg-a08043257/)">
+  <a href="https://www.linkedin.com/in/ludwig-wittenberg-a08043257/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="https://x.com/Witt3N_">
