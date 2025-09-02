@@ -8,7 +8,7 @@ My name is Ludwig Wittenberg. I'm a software developer and second-year Web Devel
 
 ### About Me
 📚 Studying Web Development at Linnaeus University in Kalmar, Sweden.    
-⚡ In my free time, I enjoy playing video games and watching football.     
+⚡ In my free time, I enjoy playing video games and watching football, Formula 1 and horse racing.     
 💼 Co owner of [Codesquare AB](https://codesquare.dev/).
 
 <br>
