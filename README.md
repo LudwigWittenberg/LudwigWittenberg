@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn"/>
 </p>
 
-My name is Ludwig Wittenberg. I'm a software developer and second-year Web Development student from Nybro, Sweden. Currently, I'm studying at Linnaeus University in Kalmar, focusing on full-stack development.
+My name is Ludwig Wittenberg. I'm a software developer and third-year Web Development student from Nybro, Sweden. Currently, I'm studying at Linnaeus University in Kalmar, focusing on full-stack development.
 
 ---
 
