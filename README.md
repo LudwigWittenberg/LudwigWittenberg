@@ -2,29 +2,30 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn"/>
 </p>
 
-My name is Ludwig Wittenberg. I'm a software developer from Nybro, Sweden.
+My name is Ludwig Wittenberg and im a software developer from Nybro, Sweden.
+
+Currently im working at **Codesqure AB** as a fullstack developer and CFO. At Codesquare AB we build modern webb-, mobile-, e-commerce applications and digital software solutions. While also building own software products.
 
 ---
 
 ### About Me
-📚 Studying Web Development at Linnaeus University in Kalmar, Sweden.    
-⚡ In my free time, I enjoy playing video games and watching football, Formula 1 and horse racing.     
-💼 Co owner of [Codesquare AB](https://codesquare.dev/).
+💼 Co owner of [Codesquare AB](https://codesquare.se/).
+    
+🎓 B.Sc. in Web Development from Linnaeus University
+
+⚡ In my free time, I enjoy playing video games and watching football, Formula 1 and horse racing. 
 
 <br>
-<br>
-<br>
-<br>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ludwig-wittenberg-a08043257/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+    <img height="30" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
   <a href="https://x.com/Witt3N_">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
   </a>
   <a href="https://www.instagram.com/ludwiigw/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p>
 
